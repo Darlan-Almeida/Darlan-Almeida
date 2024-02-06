@@ -1,9 +1,9 @@
-## Olá, seja muito bem-vindo! Prazer, Darlan Almeida. Sou programador back-end com habilidades aplicáveis também no Front!
+## Olá, seja muito bem-vindo! Prazer, Darlan Almeida. Sou programador back-end apaixonado por inovação!
 
 - Paginas Web
 - Desenvolvimento de aplicações
 - Consumo de API
-- integração com banco de dados
+- interação com banco de dados
 - Web srcaping
 - manipulação de dados
 
