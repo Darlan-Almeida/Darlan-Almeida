@@ -1,15 +1,15 @@
 ## Olá, seja muito bem-vindo! Prazer, Darlan Almeida. Sou programador back-end apaixonado por inovação!
 
-- Paginas Web
-- Desenvolvimento de aplicações
-- Consumo de API
-- interação com banco de dados
-- Web srcaping
-- manipulação de dados
+- Desenvolvimento de páginas web dinâmicas.
+- Criação de aplicações robustas e escaláveis.
+- Integração eficiente com APIs.
+- Interatividade avançada com bancos de dados.
+- Experiência em web scraping e manipulação de dados.
 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="dan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+  <img align="center" alt="dan-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="dan-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="dan-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="dan-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
