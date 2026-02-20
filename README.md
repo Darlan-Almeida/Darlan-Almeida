@@ -1,39 +1,66 @@
-## Olá, seja muito bem-vindo! Prazer, Darlan Almeida. Sou programador back-end apaixonado por inovação!
+# Olá, eu sou o Darlan Almeida 👋
 
-- Desenvolvimento de páginas web dinâmicas.
-- Criação de aplicações robustas e escaláveis.
-- Integração eficiente com APIs.
-- Interatividade avançada com bancos de dados.
-- Experiência em web scraping e manipulação de dados.
+🎓 Graduando em Ciência da Computação pela UFCG  
+🤖 Foco em Ciência de Dados, Machine Learning e IA Generativa  
 
+Construo aplicações inteligentes que transformam dados e modelos em soluções práticas, escaláveis e orientadas a impacto real.
+
+---
+
+## 🚀 Áreas de Atuação
+
+- Desenvolvimento de aplicações com **IA Generativa e LLMs**
+- Implementação de **pipelines de RAG (Retrieval-Augmented Generation)**
+- Modelagem, treinamento e avaliação de modelos de **Machine Learning**
+- Projetos envolvendo **NLP, séries temporais e visão computacional**
+- Automação, ETL e manipulação de dados
+- Desenvolvimento de APIRESTful e Sistemas escaláveis
+- Integração com APIs e bancos de dados
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="dan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="center" alt="dan-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="dan-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="dan-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="dan-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="dan-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="dan-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="dan-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="tensorflow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="pytorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+  <img align="center" alt="pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="center" alt="sklearn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-  
-  ##
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
-	<a href="https://github.com/Darlan-Almeida?tab=repositories">
-		<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Darlan-Almeida&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Stats">
-		<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlan-Almeida&layout=compact&langs_count=7&theme=gruvbox" alt="Most used languages">
-		<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Darlan-Almeida&theme=dark&background=282828&border=e4e2e2&stroke=555555&ring=d8a52e&currStreakLabel=fd8019&sideNums=8ec07c&sideLabels=8ec07c&currStreakNum=8ec07c" alt="GitHub Streak">
-	</a>
+  <a href="https://github.com/Darlan-Almeida">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Darlan-Almeida&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlan-Almeida&layout=compact&langs_count=7&theme=gruvbox"/>
+  </a>
 </div>
 
+---
 
+## 📫 Contato
 
 <div> 
-  <a href = "mailto:adarlan748@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/darlan-almeida-92251a232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://darlan-almeida.github.io/portifolio/" target="_blank"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank"></a> 
-  
+  <a href="mailto:adarlan748@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red">
+  </a>
+  <a href="https://www.linkedin.com/in/darlan-almeida-92251a232/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://darlan-almeida.github.io/portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
+  </a> 
 </div>
+
+---
+
+💡 Sempre explorando novas formas de aplicar IA para resolver problemas reais.
