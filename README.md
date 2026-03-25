@@ -50,7 +50,3 @@ Construo aplicações inteligentes que transformam dados e modelos em soluções
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
   </a> 
 </div>
-
----
-
-💡 Sempre explorando novas formas de aplicar IA para resolver problemas reais.
