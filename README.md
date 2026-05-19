@@ -1,7 +1,7 @@
 # Olá, eu sou o Darlan Almeida 👋
 
 🎓 Graduando em Ciência da Computação pela UFCG  
-🤖 Foco em Ciência de Dados, Machine Learning e IA Generativa  
+🤖 Foco em Ciência de Dados, Machine Learning, IA Generativa e Desenvolvimento Back-end
 
 Construo aplicações inteligentes que transformam dados e modelos em soluções práticas, escaláveis e orientadas a impacto real.
 
