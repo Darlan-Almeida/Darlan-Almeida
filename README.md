@@ -27,11 +27,12 @@ Construo sistemas de IA que saem do protótipo e chegam à produção: agentes b
 
 **[pdf_extractor](https://github.com/Darlan-Almeida/pdf_extractor)**: extração de dados estruturados de PDFs com foco em custo e eficiência. Extração local e heurísticas resolvem a maior parte, e o LLM entra só nos campos que faltam. Cache em SQLite e API REST em Flask com endpoints em lote e streaming. 
 
+**[NUCA Picuí](https://github.com/Darlan-Almeida/nucapicui)**: assistente conversacional que realiza triagem para verificação de elegibilidade para participação dos programas sociais e orienta os próximos passos. A arquitetura separa a interpretação da conversa da regra de negócio, que roda em uma API Flask com validação de entrada e gerenciamento de regras, e permite evoluir mensagens e fluxos sem alterar a página. Produto real para um público real, criado e mantido por quem liderou o conselho.
+
 ### 📊 Machine Learning aplicado
 
 **[Credit-Card-Fraud-Detection](https://github.com/Darlan-Almeida/Credit-Card-Fraud-Detection)**: detecção de fraude em transações de cartão, com tratamento de desbalanceamento de classes e avaliação por precisão, recall e ROC-AUC.
 
-**[NUCA Picuí](https://github.com/Darlan-Almeida/nucapicui)**: assistente conversacional que realiza triagem para verificação de elegibilidade para participação dos programas sociais e orienta os próximos passos. A arquitetura separa a interpretação da conversa da regra de negócio, que roda em uma API Flask com validação de entrada e gerenciamento de regras, e permite evoluir mensagens e fluxos sem alterar a página. Produto real para um público real, criado e mantido por quem liderou o conselho.
 
 **[calculador_rotas](https://github.com/Darlan-Almeida/calculador_rotas)**: projeto da disciplina de IA que calcula rotas com A* sobre dados reais do OpenStreetMap, com heurística geodésica e mapas interativos em Folium. Arquitetura modular (SOLID), com testes e análise estática.
 
