@@ -19,15 +19,26 @@ Construo sistemas de IA que saem do protótipo e chegam à produção: agentes b
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos Open-Source em destaque
 
-- **[LegisZap](https://github.com/Darlan-Almeida/LegisZap):** assistente para WhatsApp, Telegram e CLI que explica o processo legislativo brasileiro em linguagem simples. Responde perguntas sobre projetos de lei, votações, emendas e orçamento, mantém o contexto da conversa entre perguntas de acompanhamento e adapta o tom e o nível de leitura (inclusive em áudio) para pessoas com pouca escolaridade formal.
-- **[pdf_extractor](https://github.com/Darlan-Almeida/pdf_extractor):** sistema econômico para extrair dados estruturados de PDFs com texto, combinando extração local, heurísticas baseadas em dados e chamadas a LLMs apenas para os campos que faltam. Inclui cache adaptativo em SQLite, API em Flask e endpoints em lote e streaming.
+### 🤖 IA generativa e agentes
 
-<!--
-Modelo para novos projetos:
-- **[NomeDoProjeto](https://github.com/Darlan-Almeida/NomeDoProjeto):** descrição em uma linha (problema, solução, resultado).
--->
+**[LegisZap](https://github.com/Darlan-Almeida/LegisZap)**: assistente de IA conversacional (Whatsapp, Telegram, CLI e áudio) que explica o processo legislativo brasileiro sem "juridiquês". Usa agentes de busca na web e cliente MCP para consultar fontes atualizadas em domínios confiáveis (gov.br, camara.leg.br, senado.leg.br), mantém o contexto da conversa e adapta o tom e o nível de leitura ao público.
+
+**[pdf_extractor](https://github.com/Darlan-Almeida/pdf_extractor)**: extração de dados estruturados de PDFs com foco em custo e eficiência. Extração local e heurísticas resolvem a maior parte, e o LLM entra só nos campos que faltam. Cache em SQLite e API REST em Flask com endpoints em lote e streaming. 
+
+### 📊 Machine Learning aplicado
+
+**[Credit-Card-Fraud-Detection](https://github.com/Darlan-Almeida/Credit-Card-Fraud-Detection)**: detecção de fraude em transações de cartão, com tratamento de desbalanceamento de classes e avaliação por precisão, recall e ROC-AUC.
+
+**[NUCA Picuí](https://github.com/Darlan-Almeida/nucapicui)**: assistente conversacional que realiza triagem para verificação de elegibilidade para participação dos programas sociais e orienta os próximos passos. A arquitetura separa a interpretação da conversa da regra de negócio, que roda em uma API Flask com validação de entrada e gerenciamento de regras, e permite evoluir mensagens e fluxos sem alterar a página. Produto real para um público real, criado e mantido por quem liderou o conselho.
+
+**[calculador_rotas](https://github.com/Darlan-Almeida/calculador_rotas)**: projeto da disciplina de IA que calcula rotas com A* sobre dados reais do OpenStreetMap, com heurística geodésica e mapas interativos em Folium. Arquitetura modular (SOLID), com testes e análise estática.
+
+### ⚙️ Algoritmos e Avaliação de Desempenho
+
+**[Benchmarks_Estrutura_De_Dados](https://github.com/Darlan-Almeida/Benchmarks_Estrutura_De_Dados)**: benchmarks com JMH que comparam o desempenho empírico de estruturas de dados com a complexidade teórica. 
+
 
 📄 **Publicação:** Almeida, D. *How Effectively Do LLMs Automate Data Analysis? A Comparative Study with ChatGPT's Data Analyst, Grok, and Qwen.* Journal of Information and Data Management (JIDM), 2026.
 
